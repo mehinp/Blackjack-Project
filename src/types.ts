@@ -4,7 +4,7 @@ export enum Suit {
   Spades = "♠️",
   Clubs = "♣️",
 }
-
+//Enum for cards
 export enum Values {
   Ace = "A",
   Two = "2",
